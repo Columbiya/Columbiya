@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Columbiya/Columbiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 My name is Vladimir, 19 y.o.
 
-Here are some ideas to get you started:
+⚡ I’m looking for a job as a frontend react developer
+Here are some of my projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ⚡https://paulin.consulting
+    Quick and dirty explanation of what this project is for - 
+      It's for making the business world easier and turning more people into business people.
+  ⚡https://i-foreigner.pl
+    This one is for getting all required documents for moving into a country.
+    The people, that are currently hard working on making it possible, are going to help the ones that have been intruded
+    or their homes have been destroyed, damaged in some way.
+  
+😄 I'm currently working on a project that's called "optimist-media"
+  Wide open to all your offers!
+  I will gladly see through them all
+
+📫 Here's how to reach me:
+  💬 Telegram: @trouble_maker_me
+  🤔 Email: volodiabykov216@gmail.com
