@@ -6,7 +6,7 @@ Hi there 👋
 
 🤘 My stack is: react, redux, redux-toolkit, zustand, mobx, react-query, graphql, rest, typescript, ui libraries (chakra, material ui etc.)
 
-Here are some of my projects:
+Here are some of my projects that are live rn:
 
 🔥 https://paulin.consulting
 Quick and dirty explanation of what this project is for - 
