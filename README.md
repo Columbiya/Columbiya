@@ -19,5 +19,7 @@ Wide open to all your offers!
 I will gladly see through them all
 
 📫 Here's how to reach me:
+
 💬 Telegram: @trouble_maker_me
+
 🤔 Email: volodiabykov216@gmail.com
