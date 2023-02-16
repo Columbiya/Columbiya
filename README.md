@@ -18,8 +18,10 @@ The people, that are currently hard working on making it possible, are going to 
 or their homes have been destroyed, damaged in some way.
   
 😄 I'm currently working on a project that's called "optimist-media"
-Wide open to all your offers!
-I will gladly see through them all
+
+Wide open to all your offers! 👀
+
+I will gladly see through them all 👀👀
 
 📫 Here's how to reach me:
 
