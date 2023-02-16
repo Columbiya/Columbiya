@@ -3,6 +3,9 @@ Hi there 👋
 🌱 My name is Vladimir, 19 y.o.
 
 ⚡ I’m looking for a job as a frontend react developer
+
+🤘 My stack is: react, redux, redux-toolkit, zustand, mobx, react-query, graphql, rest, typescript, ui libraries (chakra, material ui etc.)
+
 Here are some of my projects:
 
 ⚡https://paulin.consulting
