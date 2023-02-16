@@ -8,11 +8,11 @@ Hi there 👋
 
 Here are some of my projects:
 
-⚡https://paulin.consulting
+🔥 https://paulin.consulting
 Quick and dirty explanation of what this project is for - 
-It's for making the business world easier and turning more people into business people.
+It's for making the business world easier and turning more non-business people into business people.
 
-⚡https://i-foreigner.pl
+🔥 https://i-foreigner.pl
 This one is for getting all required documents for moving into a country.
 The people, that are currently hard working on making it possible, are going to help the ones that have been intruded
 or their homes have been destroyed, damaged in some way.
@@ -27,4 +27,4 @@ I will gladly see through them all 👀👀
 
 💬 Telegram: @trouble_maker_me
 
-🤔 Email: volodiabykov216@gmail.com
+📱 Email: volodiabykov216@gmail.com
