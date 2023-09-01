@@ -14,8 +14,6 @@ It's for making the business world easier and turning more non-business people i
 This one is for getting all required documents for moving into a country.
 The people, that are currently hard working on making it possible, are going to help the ones that have been intruded
 or their homes have been destroyed, damaged in some way.
-  
-😄 I'm currently working on a project that's called "optimist-media"
 
 Wide open to all your offers! 👀
 
