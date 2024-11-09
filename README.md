@@ -1,6 +1,6 @@
 Hi there 👋
 
-🌱 My name is Vladimir, 19 y.o.
+🌱 My name is Vladimir, 20 y.o.
 
 🤘 My stack is: react, redux, redux-toolkit, zustand, mobx, react-query, graphql, rest, typescript, ui libraries (chakra, material ui etc.)
 
