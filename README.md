@@ -16,8 +16,6 @@ or their homes have been destroyed, damaged in some way.
 
 Wide open to all your offers! 👀
 
-I will gladly see through them all 👀👀
-
 📫 Here's how to reach me:
 
 💬 Telegram: @trouble_maker_me
