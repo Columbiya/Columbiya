@@ -7,7 +7,7 @@ Hi there 👋
 Here are some of my projects that are live rn:
 
 🔥 https://paulin.consulting
-Quick and dirty explanation of what this project is for - making the business world easier and turning more non-business people into business people.
+Quick and dirty explanation of what this project is for is making the business world easier and turning more non-business people into business people.
 
 🔥 https://i-foreigner.pl
 This one is for getting all required documents for moving into a country.
