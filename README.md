@@ -6,6 +6,8 @@ Hi there 👋
 
 Wide open to all your offers! 👀
 
+Leetcode: https://leetcode.com/u/ial7RBLWAD/
+
 📫 Here's how to reach me:
 
 💬 Telegram: @trouble_maker_me
