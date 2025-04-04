@@ -10,6 +10,6 @@ Leetcode: https://leetcode.com/u/ial7RBLWAD/
 
 📫 Here's how to reach me:
 
-💬 Telegram: @trouble_maker_me
+💬 Telegram: @columbiyaay
 
 📱 Email: columbiya.dev@gmail.com
